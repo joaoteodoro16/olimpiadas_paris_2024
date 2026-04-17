@@ -1,18 +1,18 @@
-# Olimpiadas Paris 📜
+# Paris Olympics 📜
 
-Este aplicativo foi desenvolvido para consumir a API disponibilizada gratuitamente pelo pessoal da Codante, fornecendo informações detalhadas sobre o quadro de medalhas e eventos das Olimpíadas de Paris 2024.
+This application was developed to consume the API freely provided by Codante, delivering detailed information about the medal table and events of the Paris 2024 Olympic Games.
 
-Versão do Flutter: 3.16.5
+Flutter version: 3.16.5
 
-Nos últimos tempos, dediquei-me ao estudo de gerenciadores de estado e de dependências, e com isso surgiu a oportunidade de criar este aplicativo para aprimorar esses conhecimentos.
+Recently, I have been focusing on studying state and dependency management, and this app was created as an opportunity to improve those skills.
 
-Bibliotecas e métodos utilizados:
+Libraries and approaches used:
 
-- Bloc para gerenciamento de estado
-- Provider para gerenciamento de dependências
-- Dio para realizar as requisições com a API
-- Utilização de padrões de design, como classes abstratas e singletons
-- Persistência de dados com Shared Preferences
-- Criação de widgets dinâmicos
+Bloc for state management
+Provider for dependency management
+Dio for making API requests
+Use of design patterns such as abstract classes and singletons
+Data persistence with Shared Preferences
+Creation of dynamic widgets
 
-Documentação da API: https://docs.apis.codante.io/olympic-games#lista-de-jogos-eventos
+API documentation: https://docs.apis.codante.io/olympic-games#lista-de-jogos-eventos
